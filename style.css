@@ -7,8 +7,15 @@ img {
   width: 450px;
 }
 .background {
-	
+	position: absolute;
 	height: 100%;
         width: 100%;
 	
+}
+#time {
+		color: white;
+		position: absolute;
+		top: 10px;
+		left: 10px;
+	 z-index: 2;
 }
